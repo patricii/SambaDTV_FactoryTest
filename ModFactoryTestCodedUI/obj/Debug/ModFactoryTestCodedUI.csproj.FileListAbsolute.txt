@@ -1,0 +1,5 @@
+C:\SambaDTV_FactoryTest\ModFactoryTestCodedUI\bin\Debug\ModFactoryTestCodedUI.dll
+C:\SambaDTV_FactoryTest\ModFactoryTestCodedUI\bin\Debug\ModFactoryTestCodedUI.pdb
+C:\SambaDTV_FactoryTest\ModFactoryTestCodedUI\obj\Debug\ModFactoryTestCodedUI.csprojResolveAssemblyReference.cache
+C:\SambaDTV_FactoryTest\ModFactoryTestCodedUI\obj\Debug\ModFactoryTestCodedUI.dll
+C:\SambaDTV_FactoryTest\ModFactoryTestCodedUI\obj\Debug\ModFactoryTestCodedUI.pdb

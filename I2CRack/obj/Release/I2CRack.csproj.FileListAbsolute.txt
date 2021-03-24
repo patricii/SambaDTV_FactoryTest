@@ -1,0 +1,5 @@
+C:\GitEldorado\SambaDTV\SW\SambaDTV_FactoryTest\I2CRack\bin\Release\I2CRack.dll
+C:\GitEldorado\SambaDTV\SW\SambaDTV_FactoryTest\I2CRack\bin\Release\I2CRack.pdb
+C:\GitEldorado\SambaDTV\SW\SambaDTV_FactoryTest\I2CRack\bin\Release\TP Wrapper.dll
+C:\GitEldorado\SambaDTV\SW\SambaDTV_FactoryTest\I2CRack\obj\Release\I2CRack.dll
+C:\GitEldorado\SambaDTV\SW\SambaDTV_FactoryTest\I2CRack\obj\Release\I2CRack.pdb

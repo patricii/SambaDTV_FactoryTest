@@ -1,0 +1,12 @@
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.AboutBox.resources
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.FormPrincipal.resources
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.FormSelectInterval.resources
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.FormSetup.resources
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.Properties.Resources.resources
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.csproj.GenerateResource.Cache
+C:\prod\SNAP\LEFT\ModFactoryTestUI.exe.config
+C:\prod\SNAP\LEFT\ModFactoryTestUI.exe
+C:\prod\SNAP\LEFT\ModFactoryTestUI.pdb
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.exe
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUI\obj\Debug\ModFactoryTestUI.pdb

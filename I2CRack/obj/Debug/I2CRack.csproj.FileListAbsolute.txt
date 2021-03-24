@@ -1,0 +1,7 @@
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\obj\Debug\IsCRack.dll
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\obj\Debug\IsCRack.pdb
+C:\DEVELOPMENT_PROJECTS\prod\SNAP\LEFT\I2CRack.dll
+C:\DEVELOPMENT_PROJECTS\prod\SNAP\LEFT\I2CRack.pdb
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\I2CRack\obj\Debug\I2CRack.dll
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\I2CRack\obj\Debug\I2CRack.pdb
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\I2CRack\obj\Debug\I2CRack.csprojResolveAssemblyReference.cache

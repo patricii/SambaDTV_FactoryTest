@@ -1,0 +1,10 @@
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\bin\Debug\IsCRack.dll
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\bin\Debug\IsCRack.pdb
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\bin\Debug\TP Wrapper.dll
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\obj\Debug\IsCRack.csprojResolveAssemblyReference.cache
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\obj\Debug\IsCRack.dll
+C:\SambaDtv\SambaDTV_FactoryTest\IsCRack\obj\Debug\IsCRack.pdb
+C:\prod\SNAP\LEFT\IsCRack.dll
+C:\prod\SNAP\LEFT\IsCRack.pdb
+C:\SambaDtv\prod\SNAP\LEFT\IsCRack.dll
+C:\SambaDtv\prod\SNAP\LEFT\IsCRack.pdb

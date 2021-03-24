@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tcChargerVerificationDescription" xml:space="preserve">
+    <value>Check if battery receive charge.</value>
+  </data>
+  <data name="tcChargerVerificationExpectedResults" xml:space="preserve">
+    <value>Battery TP should receive charge from USB-C</value>
+  </data>
+  <data name="tcChargerVerificationName" xml:space="preserve">
+    <value>Charger Verification.</value>
+  </data>
+  <data name="tcChargeVerificationPreparing" xml:space="preserve">
+    <value>Preparing Charge Verification...</value>
+  </data>
+  <data name="tcLedVerificationDescription" xml:space="preserve">
+    <value>Measure each led voltage.</value>
+  </data>
+  <data name="tcLedVerificationExecuting" xml:space="preserve">
+    <value>Executing Led Verification Test...</value>
+  </data>
+  <data name="tcLedVerificationExpectedResults" xml:space="preserve">
+    <value>All LEDS should be ON.</value>
+  </data>
+  <data name="tcLedVerificationFailMeasureCurrent" xml:space="preserve">
+    <value>Fail on measure current leds.</value>
+  </data>
+  <data name="tcLedVerificationFailTurnOnAllLeds" xml:space="preserve">
+    <value>Fail to turn on all leds.</value>
+  </data>
+  <data name="tcLedVerificationName" xml:space="preserve">
+    <value>LED Verification.</value>
+  </data>
+  <data name="tcLedVerificationPass" xml:space="preserve">
+    <value>Test LED Verification PASS.</value>
+  </data>
+  <data name="tcLedVerificationPreparing" xml:space="preserve">
+    <value>Preparing Led Verification...</value>
+  </data>
+  <data name="tcLedVerificationTurnOnPSU2" xml:space="preserve">
+    <value>Turn on PSU2...</value>
+  </data>
+  <data name="uiConfigTestFileNotFound" xml:space="preserve">
+    <value>File TestConfig.ini not found.</value>
+  </data>
+  <data name="uiInitializingTests" xml:space="preserve">
+    <value>Initializing Tests...</value>
+  </data>
+  <data name="uiInvalidTrackId" xml:space="preserve">
+    <value>Invalid TrackId number.</value>
+  </data>
+  <data name="uiJigNotClosed" xml:space="preserve">
+    <value>Jig not closed. Please close Jig.</value>
+  </data>
+  <data name="tcChargeVerificationFailAllTestPointOpen" xml:space="preserve">
+    <value>Fail to set all test point open.</value>
+  </data>
+  <data name="tcChargeVerificationFailCloseTestPointOpen" xml:space="preserve">
+    <value>Fail to close test point.</value>
+  </data>
+  <data name="tcChargeVerificationFailSetCharger5V" xml:space="preserve">
+    <value>Fail to set charger 5V.</value>
+  </data>
+  <data name="tcLedVerificationFailSetCharger" xml:space="preserve">
+    <value>Fail to set charger.</value>
+  </data>
+  <data name="tcLedVerificationFailTurnOffAllLeds" xml:space="preserve">
+    <value>Fail to turn all leds off.</value>
+  </data>
+  <data name="tcMobIntComDescription" xml:space="preserve">
+    <value>Check via Mobile USB if receive the MOD communication and streaming.</value>
+  </data>
+  <data name="tcMobIntComExecuting" xml:space="preserve">
+    <value>Executing Mobile Interface Communication Test...</value>
+  </data>
+  <data name="tcMobIntComExpectedResults" xml:space="preserve">
+    <value>Phone should receive properly data information from MOD.</value>
+  </data>
+  <data name="tcMobIntComFailTuneFrequency" xml:space="preserve">
+    <value>Fail to tune frequency.</value>
+  </data>
+  <data name="tcMobIntComName" xml:space="preserve">
+    <value>Mobile Interface Communication.</value>
+  </data>
+  <data name="tcMobIntComPreparing" xml:space="preserve">
+    <value>Preparing Mobile Interface Communication...</value>
+  </data>
+  <data name="tcPowerOnDescription" xml:space="preserve">
+    <value>Turn the power supply ON with the current limit set to "X" mA</value>
+  </data>
+  <data name="tcPowerOnExecuting" xml:space="preserve">
+    <value>Executing Power On Test...</value>
+  </data>
+  <data name="tcPowerOnExpectedResults" xml:space="preserve">
+    <value>Power supply should work below the current limit adjusted.</value>
+  </data>
+  <data name="tcPowerOnFailSetPowerOn" xml:space="preserve">
+    <value>Fail to set Power On.</value>
+  </data>
+  <data name="tcPowerOnName" xml:space="preserve">
+    <value>Power On.</value>
+  </data>
+  <data name="tcPowerOnPreparing" xml:space="preserve">
+    <value>Preparing Power On...</value>
+  </data>
+  <data name="tcTunerVerificationDescription" xml:space="preserve">
+    <value>Measures RSSI.</value>
+  </data>
+  <data name="tcTunerVerificationExecuting" xml:space="preserve">
+    <value>Executing Tuner Verification...</value>
+  </data>
+  <data name="tcTunerVerificationExpectedResults" xml:space="preserve">
+    <value>Result should be between max value and min value.</value>
+  </data>
+  <data name="tcTunerVerificationFailGetRssi" xml:space="preserve">
+    <value>Fail to get RSSI measure.</value>
+  </data>
+  <data name="tcTunerVerificationFailTuneFrequency" xml:space="preserve">
+    <value>Fail to tune frequency.</value>
+  </data>
+  <data name="tcTunerVerificationFrequencyHasNoSignal" xml:space="preserve">
+    <value>Frequency has no signal.</value>
+  </data>
+  <data name="tcTunerVerificationName" xml:space="preserve">
+    <value>Tuner Verification.</value>
+  </data>
+  <data name="tcTunerVerificationPreparing" xml:space="preserve">
+    <value>Preparing Tune Verification Test...</value>
+  </data>
+  <data name="tcLedVerifyWithCamDescription" xml:space="preserve">
+    <value>To check if LEDs are lighting</value>
+  </data>
+  <data name="tcLedVerifyWithCamExpectedResults" xml:space="preserve">
+    <value>All 4 LEDs must be recognized by the camera when they are light.</value>
+  </data>
+  <data name="tcLedVerifyWithCamName" xml:space="preserve">
+    <value>LED Test with Camera.</value>
+  </data>
+  <data name="tcLedVerifyWithCamExecuting" xml:space="preserve">
+    <value>Executing LED verification with camera...</value>
+  </data>
+  <data name="tcLedVerifyWithCamFailCaptureFrame" xml:space="preserve">
+    <value>Fail to capture frame.</value>
+  </data>
+  <data name="tcLedVerifyWithCamFailTurnOffAllLeds" xml:space="preserve">
+    <value>Fail to turn all leds off.</value>
+  </data>
+  <data name="tcLedVerifyWithCamPreparing" xml:space="preserve">
+    <value>Preparing LED Verification with Camera...</value>
+  </data>
+  <data name="uiCantReadTrackidFile" xml:space="preserve">
+    <value>Can not open or read trackid file.</value>
+  </data>
+  <data name="uiLogFilesNotFound" xml:space="preserve">
+    <value>Log Files not found.</value>
+  </data>
+  <data name="tcMobIntComFailPrepare" xml:space="preserve">
+    <value>Fail on preparing Mobile Interface Communication.</value>
+  </data>
+  <data name="tcTunerVerificationFailExecuting" xml:space="preserve">
+    <value>Fail on executingTuner Verification.</value>
+  </data>
+  <data name="tcTunerVerificationFailPreparing" xml:space="preserve">
+    <value>Fail on preparing Tuner Verification.</value>
+  </data>
+  <data name="uiStartTest" xml:space="preserve">
+    <value>Starting test of TrackId = </value>
+  </data>
+  <data name="uiInvalidDateInterval" xml:space="preserve">
+    <value>Invalid date range.</value>
+  </data>
+  <data name="tcChargeVerificationExecuting" xml:space="preserve">
+    <value>Executing Charge Verification...</value>
+  </data>
+  <data name="uiRunningRecycle" xml:space="preserve">
+    <value>Running recycle test =&gt; </value>
+  </data>
+  <data name="tcAntennaTestExecuting" xml:space="preserve">
+    <value>Executing Antenna Test...</value>
+  </data>
+  <data name="tcAntennaTestExpectedResults" xml:space="preserve">
+    <value>Result should be between "X" and "Y"</value>
+  </data>
+  <data name="tcAntennaTestName" xml:space="preserve">
+    <value>Antenna Test</value>
+  </data>
+  <data name="tcAntennaTestPreparing" xml:space="preserve">
+    <value>Preparing Antenna Test...</value>
+  </data>
+  <data name="tcBatteryTestExecuting" xml:space="preserve">
+    <value>Executing Battery Test...</value>
+  </data>
+  <data name="tcBatteryTestPreparing" xml:space="preserve">
+    <value>Preparing Battery Test...</value>
+  </data>
+  <data name="tcBatteryVerificationDescription" xml:space="preserve">
+    <value>Measures the battery voltage and check if charging.</value>
+  </data>
+  <data name="tcBatteryVerificationExpectedResults" xml:space="preserve">
+    <value>Battery should be charging from MOD USB.</value>
+  </data>
+  <data name="tcBatteryVerificationName" xml:space="preserve">
+    <value>Battery Test</value>
+  </data>
+  <data name="tcMagneticDescription" xml:space="preserve">
+    <value>Check the if the 4 magnetic points on MOD is working.</value>
+  </data>
+  <data name="tcMagneticExecuting" xml:space="preserve">
+    <value>Executing Magnetic Test...</value>
+  </data>
+  <data name="tcMagneticExpectedResults" xml:space="preserve">
+    <value>All 4 reed sensor should close when MOD is attached at fixture.</value>
+  </data>
+  <data name="tcMagneticFailAllTestPointOpen" xml:space="preserve">
+    <value>Magnetic Test fail to open all test pointers.</value>
+  </data>
+  <data name="tcMagneticFailCloseTestPoint" xml:space="preserve">
+    <value>Magnetic Test fail to close test point.</value>
+  </data>
+  <data name="tcMagneticFailSetPowerOn" xml:space="preserve">
+    <value>Magnetic Test fail to set power on.</value>
+  </data>
+  <data name="tcMagneticName" xml:space="preserve">
+    <value>Magnetic Test</value>
+  </data>
+  <data name="tcMagneticPreparing" xml:space="preserve">
+    <value>Preparing Magnetic Test...</value>
+  </data>
+  <data name="tcMobIntStationCComName" xml:space="preserve">
+    <value>Mobile Interface Communication</value>
+  </data>
+  <data name="tcMobIntStationCDescription" xml:space="preserve">
+    <value>Check via Mobile USB MOD interface.</value>
+  </data>
+  <data name="tcMobIntStationCExecuting" xml:space="preserve">
+    <value>Executing Mobile Interface Communication station C...</value>
+  </data>
+  <data name="tcMobIntStationCExpectedResults" xml:space="preserve">
+    <value>Phone should receive properly data information from MOD.</value>
+  </data>
+  <data name="tcMobIntStationCPreparing" xml:space="preserve">
+    <value>Preparing Mobile Interface Communication station C...</value>
+  </data>
+  <data name="tctcAntennaTestDescription" xml:space="preserve">
+    <value>Measures the RSSI by phone USB.</value>
+  </data>
+  <data name="uiUserActionRequired" xml:space="preserve">
+    <value>User Action Required !</value>
+  </data>
+  <data name="uiCheckIfJigIsClosed" xml:space="preserve">
+    <value>Checking if cover's jig is closed...</value>
+  </data>
+  <data name="uiFailToStartTests" xml:space="preserve">
+    <value>Fail pre conditions to start tests.</value>
+  </data>
+  <data name="uiCheckIfJigIsOpen" xml:space="preserve">
+    <value>Jig not open. Please open jig.</value>
+  </data>
+  <data name="uiCameraCalibrationDetails" xml:space="preserve">
+    <value>Choose what station test is this image. (Left or Right station test)</value>
+  </data>
+  <data name="uiCameraCalibrationTitle" xml:space="preserve">
+    <value>Camera setup calibration</value>
+  </data>
+  <data name="uiCameraCalibrationDetailsConfirm" xml:space="preserve">
+    <value>Confirm if this image is from </value>
+  </data>
+  <data name="uiCellCalibrationInsertBothCell" xml:space="preserve">
+    <value>Plug both phones to run a test.</value>
+  </data>
+  <data name="uiCellCalibrationInsertLeftCell" xml:space="preserve">
+    <value>Plug the left JIG cell phone.</value>
+  </data>
+  <data name="uiCellCalibrationInsertRightCell" xml:space="preserve">
+    <value>Plug the right JIG cell phone.</value>
+  </data>
+  <data name="uiCellCalibrationLeftCellNumber" xml:space="preserve">
+    <value>The left cell number is: </value>
+  </data>
+  <data name="uiCellCalibrationRemoveCell" xml:space="preserve">
+    <value>Unplug the two cellphones from the computer.</value>
+  </data>
+  <data name="uiCellCalibrationRemoveLeftCell" xml:space="preserve">
+    <value>Unplug the left JIG cell phone.</value>
+  </data>
+  <data name="uiCellCalibrationRemoveRightCell" xml:space="preserve">
+    <value>Unplug the right JIG cell phone.</value>
+  </data>
+  <data name="uiCellCalibrationResultError" xml:space="preserve">
+    <value>Error to configure cell phones.</value>
+  </data>
+  <data name="uiCellCalibrationResultSuccess" xml:space="preserve">
+    <value>Cell phones configured successfully !</value>
+  </data>
+  <data name="uiCellCalibrationRightCellNumber" xml:space="preserve">
+    <value>The right cell number is: </value>
+  </data>
+  <data name="uiCellCalibrationTitle" xml:space="preserve">
+    <value>Please follow the steps below for the correct configuration of the cell phones in their respective test station</value>
+  </data>
+</root>

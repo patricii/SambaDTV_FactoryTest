@@ -1,0 +1,5 @@
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUnity\obj\Debug\ModFactoryTestUnity.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT_PROJECTS\prod\SNAP\LEFT\ModFactoryTestUnity.dll
+C:\DEVELOPMENT_PROJECTS\prod\SNAP\LEFT\ModFactoryTestUnity.pdb
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUnity\obj\Debug\ModFactoryTestUnity.dll
+C:\DEVELOPMENT_PROJECTS\SambaDTV_FactoryTest\ModFactoryTestUnity\obj\Debug\ModFactoryTestUnity.pdb
